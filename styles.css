@@ -61,7 +61,7 @@ nav {
 
 .hero {
   height: 100vh;
-  background: url('images/napali-coast.jpg') center/cover no-repeat;
+  background: url('https://raw.githubusercontent.com/clgraham84/kauai-vacation-website/main/images/napali-coast.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
