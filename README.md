@@ -2,22 +2,16 @@
 
 CSC 100: Web Design & Development project for Wilmington University.
 
-A responsive single-page vacation website showcasing Kauai, Hawaii — the Garden Isle.
+A simple single-page vacation website for Kauai, Hawaii.
 
 ## Features
-- Hero section with Na Pali Coast background
-- Location, Activities (with list), and Cuisine sections matching the project summary
-- Photo gallery with lightbox
-- Mobile-responsive navigation
-- Smooth scrolling
+- Clean layout covering location, activities (with list), and cuisine
+- Five high-quality photos
+- Basic navigation and responsive images
+- All styling is in the HTML file for simplicity
 
 ## Technologies
-- HTML5
-- CSS3 (Flexbox, Grid, responsive design)
-- Vanilla JavaScript
-
-## Images
-Photos sourced from public/stock sites and cited in the accompanying Word document project summary.
+- HTML5 with embedded CSS
 
 ## Author
 Christopher Graham (clgraham84)
