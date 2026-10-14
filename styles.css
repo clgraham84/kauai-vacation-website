@@ -20,6 +20,32 @@ header {
     padding: 30px 20px;
 }
 
+/* Make the navigation list horizontal */
+.nav-links {
+  display: flex;       
+  list-style: none;   
+  margin: 0;
+  padding: 0;
+}
+
+/* Add spacing between the navigation links */
+.nav-links li {
+  margin-left: 20px;
+}
+
+/* Style the clickable links */
+.nav-links a {
+  color: white;
+  text-decoration: none; 
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+/* Change link color on hover */
+.nav-links a:hover {
+  color: #ffcc00;
+}
+
 /* Style the section */
 section {
     max-width: 900px;
