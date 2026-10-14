@@ -55,7 +55,7 @@ section {
 /* Style the footer */
 footer p {
     text-align: center;
-    color: #0d4f6b;
+    color: #ffffff;
     padding: 20px 0;
     color: white;
     text-decoration: none; 
@@ -113,7 +113,7 @@ img {
 /* Style citations */
 .citation {
     font-size: 12px;
-    color: #4a6a7a;
+    color: ;
     font-style: italic;
     margin-top: -8px;
     margin-bottom: 24px;
